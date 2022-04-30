@@ -17,7 +17,7 @@ module.exports = {
   title: "熊猫哥的情感课堂",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/',
+  baseDirectory: '/👉🏻往下点',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
@@ -55,6 +55,10 @@ module.exports = {
      {
       name: 'wechat',
       link: 'https://mp.weixin.qq.com/s/vLEz8msytnhzWYmqPrDevw',
+    },
+     {
+      name: 'youtube',
+      link: 'https://www.youtube.com/channel/UChYs8eCEihqVCBEFS9pi7oQ',
     },
   ],
 
